@@ -11,6 +11,22 @@ Training code, base-model checkpoints, and restricted benchmark data are not
 included. Obtain each base model under its original license and place the
 released LoRA adapter and prediction head under `weights/`.
 
+## Released weights
+
+Download the three-model UAOGI LoRA package from the
+[v1.0.0 GitHub Release](https://github.com/Shanonshan/UAOGI/releases/tag/v1.0.0).
+
+```text
+File: uaogi_three_model_weights.tar.gz
+SHA-256: fe3489d7fbd62b8be1a54c2bfb4904dd16b4c131b33201c16564f28467eb19d8
+```
+
+Extract it directly into the repository:
+
+```bash
+tar -xzf uaogi_three_model_weights.tar.gz -C weights
+```
+
 ## Installation
 
 ```bash
