@@ -11,6 +11,9 @@ Training code, base-model checkpoints, and restricted benchmark data are not
 included. Obtain each base model under its original license and place the
 released LoRA adapter and prediction head under `weights/`.
 
+The complete training code will be released upon acceptance of the associated
+paper.
+
 ## Released weights
 
 Download the three-model UAOGI LoRA package from the
