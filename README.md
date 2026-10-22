@@ -70,7 +70,7 @@ On the experiment server, upload this repository and run:
 
 ```bash
 bash package_weights_on_server.sh /data0/sh_shan/MedReID \
-  /data0/sh_shan/MedReID/uaogi_three_model_weights.tar.gz
+  /MedReID/uaogi_three_model_weights.tar.gz
 ```
 
 Extract the archive into this repository's `weights/` directory. Base-model
